@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Learning Maven]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26" started-at="2020-02-03T10:32:20Z" finished-at="2020-02-03T10:32:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26" started-at="2020-02-03T10:32:20Z" finished-at="2020-02-03T10:32:20Z">
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="MavenMethod()[pri:0, instance:qaclickacademy.SeleniumTest@3e2e18f2]" name="MavenMethod" duration-ms="8" started-at="2020-02-03T10:32:20Z" finished-at="2020-02-03T10:32:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Learning Maven]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MavenMethod -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
